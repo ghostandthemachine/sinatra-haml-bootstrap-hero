@@ -1,0 +1,5 @@
+set :application, 	"yoursite.com/sinatra-haml-bootstrap-basic-hero"
+set :user,        	"user"
+set :repository, 	"git@yourrepo.com:sinatra-haml-bootstrap-hero.git"
+set :domain, 		"yoursite.com"
+set :deploy_to, 	"~/sites/#{application}"
