@@ -1,0 +1,5 @@
+*~
+*.swp
+config/db.rb
+*.sublime*
+.rvmrc

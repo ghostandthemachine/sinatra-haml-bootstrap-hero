@@ -13,23 +13,23 @@
 
 		/ Le styles
 		%link{ :href => "/bootstrap/css/bootstrap.css", :type => "text/css", :rel => "stylesheet" }
-	
+
 		/ add body padding styles
 		%link{ :href => "/css/styles.css", :type => "text/css", :rel => "stylesheet" }
 
-	
-		%link{ :href => "/bootstrap/css/bootstrap-responsive.css", :type => "text/css", :rel => "stylesheet" }	
 
-		/ Le fav and touch icons 
+		%link{ :href => "/bootstrap/css/bootstrap-responsive.css", :type => "text/css", :rel => "stylesheet" }
+
+		/ Le fav and touch icons
 		%link{ rel: "apple-touch-icon", href: "/bootstrap/images/apple-touch-icon.png"}
 		%link{ rel: "shortcut icon", href: "/bootstrap/images/favicon.ico"}
 		%link{ rel: "apple-touch-icon", sizes: "72x72", href: "/bootstrap/images/apple-touch-icon-72x72.png"}
 		%link{ rel: "apple-touch-icon", sizes: "114x114", href: "/bootstrap/images/apple-touch-icon-114x114.png"}
-	
+
 	%body
 
 		%div= haml :navbar
-								
+
 		%div= yield
 
 
