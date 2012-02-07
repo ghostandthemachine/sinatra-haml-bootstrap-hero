@@ -1,0 +1,32 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.6)
+    dm-core (1.2.0)
+      addressable (~> 2.2.6)
+    haml (3.1.4)
+    rack (1.4.1)
+    rack-protection (1.2.0)
+      rack
+<<<<<<< HEAD
+=======
+    shotgun (0.9)
+      rack (>= 1.0)
+>>>>>>> 3f58f8fc8a391cdcfbeb6218cb465345bc19fca6
+    sinatra (1.3.2)
+      rack (~> 1.3, >= 1.3.6)
+      rack-protection (~> 1.2)
+      tilt (~> 1.3, >= 1.3.3)
+    tilt (1.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dm-core
+  haml
+<<<<<<< HEAD
+=======
+  shotgun
+>>>>>>> 3f58f8fc8a391cdcfbeb6218cb465345bc19fca6
+  sinatra

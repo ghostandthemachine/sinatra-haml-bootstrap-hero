@@ -1,0 +1,9 @@
+*~
+*.swp
+config/db.rb
+*.sublime*
+.rvmrc
+ghostandthemachines.com
+sinatra-haml-bootstrap-hero.sublime-project
+sinatra-haml-bootstrap-hero.sublime-workspace
+.DS_Store
