@@ -1,16 +1,11 @@
-[Sinatra] [5], [Haml][6] and [Bootstrap][7] kick ass so I wanted to make a bare bones project to start from which would get the setup hassle out of the way. 
-
-Additionally, I thought remaking the [example projects] [1] would be a good way to get
-comfortable with Bootstrap and this arangement.
-
-The Sinatra, Haml, Bootstrap versions can be found here:
+[Sinatra] [5], [Haml][6] and [Bootstrap][7] kick ass so I wanted to make a bare bones project to start from which would get the setup hassle out of the way. I thought remaking the example projects would be a good way to get comfortable with Bootstrap and this arangement. Here you can find the Sinatra + Haml + Bootstrap version of the following [layout examples] [1]:
 
 * [Starter] [2]
-* **[Hero] [3]**
+* **[Hero] [3]** *(current repository)*
 * [Fluid] [4]
 
 
-##Setup:
+##Setup
 
 All of the example projects and the bare bones project are set up with:
 
